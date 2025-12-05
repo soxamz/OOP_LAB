@@ -1,0 +1,5 @@
+Name ~ Sohom Mondal
+Roll Number ~ 2405234
+Section ~ CSE33
+
+LAB 1 COMPLETED SUCCESSFULLY!
